@@ -1,0 +1,8 @@
+[package]
+name = "sunder"
+version = "0.0.1"
+edition = "2024"
+description = "Hopefully a good disassembler one day"
+authors = ["Stipulations"]
+
+[dependencies]
