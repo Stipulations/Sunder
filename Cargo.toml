@@ -6,3 +6,4 @@ description = "Hopefully a good disassembler one day"
 authors = ["Stipulations"]
 
 [dependencies]
+iced-x86 = "1.21.0"
