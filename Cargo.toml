@@ -5,5 +5,8 @@ edition = "2024"
 description = "Hopefully a good disassembler one day"
 authors = ["Stipulations"]
 
+license = "MIT"
+
 [dependencies]
+goblin = "0.10.3"
 iced-x86 = "1.21.0"
