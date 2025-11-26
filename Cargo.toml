@@ -9,4 +9,6 @@ license = "MIT"
 
 [dependencies]
 goblin = "0.10.3"
+gpui = "0.2.2"
+gpui-component = "0.4.1"
 iced-x86 = "1.21.0"
